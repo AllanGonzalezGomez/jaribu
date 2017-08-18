@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+			<title>El Jabirú, el galán de los cielos</title>
+			<meta charset="UTF-8">
+
+	
+	</head>
+	
+	<body>
+		<nav>
+		Distribucion
+		
+			<a href="Index.html">Index</a> 
+			<a href="Imagenes.html">Imagenes</a> 
+			
+		</nav>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1a1SeIIbxysKMBxeuyAB9TdrfI_s" width="740" height="580"></iframe>
