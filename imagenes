@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+			<title>El Jabirú, el galán de los cielos</title>
+			<meta charset="UTF-8">
+
+	
+	</head>
+	
+	<body>
+		<nav>
+		Imagenes
+		
+			<a href="Index.html">Index</a> 
+			<a href="Distribucion.html">Distribucion</a> 
+			
+		</nav>
+		
+	<figure>
+		<img src="800px-Jabiru_mycteria_-Parque_das_Aves,_Foz_do_Iguacu,_Brazil_-back-8a.jpg" width="350" height="398"></img>
+		<cite>Imagen 1</cite> por es.wikipedia.org 2017
+	</figure>
+	
+	<figure>
+		<img src="vuelo.jpg" width="350" height="398"></img>
+	</figure>
